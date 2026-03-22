@@ -66,6 +66,7 @@ Each construct is measured using multiple survey questions (e.g., ATSMA1, ATSMA2
 - Correlation analysis between key variables  
 - Behavioural pattern exploration  
 
+![ATSMA vs Purchase](fig_3.png)
 ---
 
 ### Model Used:
@@ -84,6 +85,8 @@ Each construct is measured using multiple survey questions (e.g., ATSMA1, ATSMA2
 -  Word-of-mouth contributes, but not as strongly as expected  
 -  Gen Z appears to rely heavily on **digital exposure over personal recommendations**
 
+![Key Drivers](fig_1.png)
+
 ---
 
 ## Customer Segmentation
@@ -94,6 +97,7 @@ Used K-Means clustering to identify behavioral groups:
 - **Peer-Driven Buyers** → Strongly influenced by social circles  
 - **Independent Buyers** → Less influenced by external factors  
 
+![Customer Segmentation](fig_2.png)
 ---
 
 ## ⚠️ Limitations
